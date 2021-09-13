@@ -10,5 +10,8 @@ git clone https://github.com/maari-krish/Web-Osint
 cd Web-Osint
 ```
 ```
+pip3 install bs4
+```
+```
 python3 webosint.py
 ```

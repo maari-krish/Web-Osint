@@ -12,4 +12,3 @@ cd Web-Osint
 ```
 python3 webosint.py
 ```
-```
